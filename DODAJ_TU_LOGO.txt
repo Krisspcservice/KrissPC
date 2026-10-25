@@ -1,1 +1,0 @@
-Wklej do tego folderu swoje logo i nazwij je logo.png. Strona wyświetli je automatycznie w nagłówku.
